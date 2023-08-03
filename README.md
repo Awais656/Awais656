@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Muhammad Awais Software Engineer(.Net Developer)
+- 👋 Hi, I’m Muhammad Awais and Software Engineer(.Net Developer) by profession.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning .Net core and NodeJs.
+- 🌱 I’m currently learning Asp.Net core and NodeJs and also working on projects.
 - 💞️ I’m looking to collaborate on Sql,Backend programming and configuration,.net developer.
 - 📫 You can reach me on instagram @m_awais656 or DM me on awais.uet656@gmail.com
 
